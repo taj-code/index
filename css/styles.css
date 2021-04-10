@@ -1,7 +1,13 @@
 h1 {
-  color:red;
-  float: left;
+  color:indigo;
   font-size: xx-large;
+  float: left;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h4 {
+  float: right;
+  font-family: fantasy;
+  color:indigo;
 }
 .list {
   border: 5px solid black;
@@ -13,15 +19,13 @@ h1 {
 .about {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.pic {
-  size: 10000px;
-}
 .highlight {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .color{
   color: red;
 }
-image {
-  size: 50 px;
+img {
+  width: 280px;
+  height: 180px;
 }
